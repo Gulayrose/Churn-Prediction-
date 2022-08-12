@@ -18,10 +18,12 @@ Subplots of Features
 Split Data as Train and Test set
 Scaling
 Label Encoding 
+ 
  4. Cluster Analysis
 
 Find the optimal number of clusters (k) using the elbow method for for K-means.
 Determine the clusters by using K-Means then Evaluate predicted results.
+
  5. Model Building
 
 Built Gradient Boosting Classifier, Evaluate Model Performance and Predict Test Data
